@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/NodeJs-green.svg" />
     </a>
      <a alt="adonisJs">
-        <img src="https://img.shields.io/badge/adonisJs-purple.svg" />
+        <img src="https://img.shields.io/badge/AdonisJs-purple.svg" />
     </a>
      <a alt="JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-yellow.svg" />
