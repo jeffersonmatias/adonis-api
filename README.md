@@ -1,5 +1,6 @@
 <h1>API Rest</h1>
 <h2>Tecnologias Utilizadas</h2>
+<p align="center">
      <a alt="nodeJs">
         <img src="https://img.shields.io/badge/NodeJs-green.svg" />
     </a>
@@ -12,3 +13,4 @@
      <a alt="TypeScript">
         <img src="https://img.shields.io/badge/TypeScript-blue.svg" />
     </a>
+</p>
