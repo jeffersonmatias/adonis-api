@@ -13,4 +13,7 @@
      <a alt="TypeScript">
         <img src="https://img.shields.io/badge/TypeScript-blue.svg" />
     </a>
+     <a alt="SqLite">
+        <img src="https://img.shields.io/badge/SqLite-lightblue.svg" />
+    </a>
 </p>
