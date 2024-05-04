@@ -1,10 +1,13 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "node ace build --production",
-        "use": "@vercel/node"
-      }
-    ]
-  }
-  
+  "version": 2,
+  "builds": [
+    {
+      "src": "node ace build --production",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    { "src": "/api/moments", "dest": "app/Controllers/Http/MomentsController.js" },
+    { "src": "/api/moments/:momentId/comments", "dest": "app/Controllers/Http/CommentsController.js" }
+  ]
+}
