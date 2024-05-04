@@ -7,7 +7,7 @@
     }
   ],
   "routes": [
-    { "src": "/api/moments", "dest": "app/Controllers/Http/MomentsController.js" },
-    { "src": "/api/moments/:momentId/comments", "dest": "app/Controllers/Http/CommentsController.js" }
+    { "src": "/(.*)" },
+    { "src": "/" }
   ]
 }
