@@ -5,12 +5,5 @@
       "src": "node ace build --production",
       "use": "@vercel/node"
     }
-  ],
- 
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
   ]
 }
